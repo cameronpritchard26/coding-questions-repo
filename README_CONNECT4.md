@@ -1,5 +1,7 @@
 # Connect 4 Scoring Problem
 
+[Back to problems] (README.md)
+
 ## Problem Description
 
 Connect 4 is a board game played on an NxN board between two players: black ('B') and white ('W'). Players score points for having sequences of their own pieces in a row. Sequences can be horizontal, vertical, or diagonal.
@@ -195,16 +197,6 @@ The solution includes comprehensive test coverage with 15 test cases:
 **Full test suite:**
 ```bash
 python test_connect4.py
-```
-
-**Quick verification:**
-```bash
-python manual_verify.py
-```
-
-**Verify expected values:**
-```bash
-python verify_expectations.py
 ```
 
 ### Test Results
