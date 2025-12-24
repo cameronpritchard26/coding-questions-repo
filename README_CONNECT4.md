@@ -1,6 +1,6 @@
 # Connect 4 Scoring Problem
 
-[Back to problems] (README.md)
+[Back to problems](README.md)
 
 ## Problem Description
 
