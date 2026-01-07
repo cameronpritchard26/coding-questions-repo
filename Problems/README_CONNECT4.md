@@ -1,6 +1,6 @@
 # Connect 4 Scoring Problem
 
-[Back to problems](README.md)
+[Back to problems](../README.md)
 
 ## Problem Description
 
@@ -228,5 +228,5 @@ Test Results: 15 passed, 0 failed out of 15 total
 
 ## Files
 
-- **`connect4.py`** - Main solution implementation
-- **`test_connect4.py`** - Comprehensive test suite (15 tests)
+- [**`connect4.py`**](../Code/connect4.py) - Main solution implementation
+- [**`test_connect4.py`**](../Testing/test_connect4.py) - Comprehensive test suite (15 tests)
