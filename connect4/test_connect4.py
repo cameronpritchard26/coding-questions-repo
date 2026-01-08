@@ -1,4 +1,4 @@
-from Code.connect4 import calcPlayerPoints
+from connect4 import calcPlayerPoints
 
 
 def run_tests():

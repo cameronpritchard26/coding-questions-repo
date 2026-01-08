@@ -1,4 +1,4 @@
-from ..Code.additive_numbers import isAdditiveNumber
+from additive_numbers import isAdditiveNumber
 
 def run_tests():
     test_cases = [

@@ -125,5 +125,5 @@ python test_additive_numbers.py
 
 ## Files
 
-- [**`additive_numbers.py`**](../Code/additive_numbers.py) - Main solution implementation
-- [**`test_additive_numbers.py`**](../Testing/test_additive_numbers.py) - Comprehensive test suite
+- [**`additive_numbers.py`**](additive_numbers.py) - Main solution implementation
+- [**`test_additive_numbers.py`**](test_additive_numbers.py) - Comprehensive test suite
