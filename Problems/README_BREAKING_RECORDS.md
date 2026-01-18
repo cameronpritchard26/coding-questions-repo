@@ -217,5 +217,5 @@ Results: 20/20 tests passed
 
 ## Files
 
-- [**`breaking_records.py`**](breaking_records.py) - Main solution implementation
-- [**`test_breaking_records.py`**](test_breaking_records.py) - Comprehensive test suite (20 tests)
+- [**`breaking_records.py`**](../Code/breaking_records.py) - Main solution implementation
+- [**`test_breaking_records.py`**](../Testing/test_breaking_records.py) - Comprehensive test suite (20 tests)

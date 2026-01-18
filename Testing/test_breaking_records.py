@@ -1,4 +1,8 @@
-from breaking_records import breaking_records
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+from Code.breaking_records import breaking_records
 
 def run_tests():
     test_cases = [

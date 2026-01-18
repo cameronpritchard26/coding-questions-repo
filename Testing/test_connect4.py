@@ -1,4 +1,8 @@
-from connect4 import calcPlayerPoints
+import sys
+import os
+sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
+
+from Code.connect4 import calcPlayerPoints
 
 
 def run_tests():
