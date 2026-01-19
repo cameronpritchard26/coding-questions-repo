@@ -26,3 +26,12 @@ See [README_CONNECT4.md](Problems/README_CONNECT4.md) for detailed documentation
 Count the number of times a player breaks their season record for most and least points scored in a game.
 
 See [README_BREAKING_RECORDS.md](Problems/README_BREAKING_RECORDS.md) for detailed documentation
+
+### Most Water
+
+**File:** `most_water.py`
+
+Find the maximum area of water that can be stored between two lines in a histogram.
+
+See [README_MOST_WATER.md](Problems/README_MOST_WATER.md) for detailed documentation
+
